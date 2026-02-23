@@ -1,9 +1,7 @@
 /*
-Implemente um simulador de caixa eletrônico que ajude a entregar o menor número
-possível de cédulas. O programa deve ler um valor inteiro (múltiplo de 10) e calcular a quantidade de
-notas de R$ 50, R$ 20 e R$ 10 necessárias.
-Exemplo: Para R$ 180, o programa deve retornar 3 notas de R$ 50, 1 nota de R$ 20 e 1 nota de R$
-10. Utilize os operadores de divisão (/) e resto (%) para resolver o problema
+Crie um programa que receba um valor inteiro representando um tempo total em segundos. O algoritmo deve converter e exibir esse tempo no formato composto de Horas, Minutos e
+Segundos.
+Exemplo: 3665 segundos deve resultar em 1h, 1min e 5seg
 */
 
 #include <stdio.h>
